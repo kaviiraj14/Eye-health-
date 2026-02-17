@@ -4,5 +4,4 @@ pandas
 matplotlib
 joblib
 reportlab
-scikit-learn
-sklearn
+scikit-learn==1.3.2
